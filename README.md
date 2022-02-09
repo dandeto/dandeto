@@ -25,7 +25,7 @@ Web:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/>
 
----
+<!-- this is hr --- -->
 
 <!--
 **dandeto/dandeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
